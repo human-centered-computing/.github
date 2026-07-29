@@ -1,60 +1,74 @@
 # Human-Centered Computing
 
-**Open research, open-source technology, and real-world transformation—designed around people.**
+**Open research. Open-source technology. Real-world transformation—designed around people.**
 
 Human-Centered Computing is an international open-source research and development community founded by **Murat Delen**.
 
-We develop academic research, software, artificial intelligence systems, datasets, educational models, and real-world applications based on human-centered transformation and Industry 5.0 principles.
+We transform interdisciplinary academic research into working software, artificial intelligence systems, datasets, educational models, and real-world applications.
 
-## Our Vision
+Our work is based on human-centered transformation, responsible human–AI collaboration, open science, and Industry 5.0 principles.
 
-We believe technology should not replace people, but strengthen human judgment, creativity, safety, dignity, and decision-making.
+[![Website](https://img.shields.io/badge/Website-muratdelen.com-blue)](https://muratdelen.com)
+[![Politics5](https://img.shields.io/badge/Initiative-Politics5-purple)](https://politics5.org)
+[![NextLife](https://img.shields.io/badge/Project-NextLife-green)](https://nextlife.harran.edu.tr)
+[![Language](https://img.shields.io/badge/Default%20Language-English-blue)](#language-policy)
+[![Open Source](https://img.shields.io/badge/Principle-Open%20Source-orange)](#open-by-principle)
 
-Our goal is to transform academic knowledge into practical, open, reusable, and globally accessible solutions.
+## Mission
+
+Our mission is to bridge the gap between academic knowledge and everyday life.
+
+We identify meaningful human, institutional, and societal problems, study them through interdisciplinary research, develop human-centered solutions, implement them as usable technologies, and publish the resulting knowledge openly for global reuse.
+
+> **Develop locally. Design universally. Publish openly. Transform humanly.**
 
 ## How We Work
 
-Each project follows a common process:
+Each project follows a shared research-to-impact lifecycle:
 
-1. Identify a real human, institutional, or societal problem.
-2. Analyze the problem through an interdisciplinary and Industry 5.0 perspective.
+1. Identify a real-world problem.
+2. Analyze it through an interdisciplinary and Industry 5.0 perspective.
 3. Design a human-centered transformation model.
 4. Conduct academic research and measurable experiments.
-5. Develop working software, artificial intelligence models, or prototypes.
-6. Test the solution in real-world environments.
-7. Publish the code and technical documentation openly on GitHub.
-8. Submit the academic findings to peer-reviewed journals or conferences.
-9. Improve the project through international community collaboration.
+5. Develop working software, artificial intelligence models, prototypes, or platforms.
+6. Test and validate the solution in practical environments.
+7. Publish code and technical documentation openly on GitHub.
+8. Submit research findings to peer-reviewed journals or conferences.
+9. Improve the project through international collaboration.
 
 ## Core Principles
 
 ### Human-Centered by Default
 
-Technology should support human capabilities and responsible human–AI collaboration.
+Technology should strengthen human judgment, creativity, safety, dignity, and agency.
 
-### English by Default
-
-English is the default language for repositories, documentation, research, and international communication.
-
-### Multilingual by Design
-
-Projects may support Turkish and other languages through structured localization and community translation.
-
-### Universal by Purpose
-
-Projects may begin with local problems, but methods and software are designed for global reuse.
-
-### Open by Principle
-
-Whenever legal, ethical, privacy, and licensing conditions permit, code, documentation, models, datasets, and research outputs are published openly.
+We design systems for responsible human–AI collaboration rather than technology-first automation.
 
 ### Research to Real-World Impact
 
-Research should not remain only in academic papers. It should become usable software, prototypes, educational models, and field applications.
+Research should not remain only in academic papers.
 
-## Research and Application Domains
+It should become usable software, prototypes, educational models, reference architectures, and practical applications.
 
-Our work may cover multiple domains, including:
+### Universal by Purpose
+
+Projects may begin with local problems, but their methods and technical foundations are designed for reuse across different countries, cultures, institutions, and sectors.
+
+### English by Default
+
+English is the canonical language for repositories, academic work, technical documentation, and international communication.
+
+### Multilingual by Design
+
+Projects may support Turkish and other languages through structured localization, translation files, and community contributions.
+
+### Open by Principle
+
+Whenever legal, ethical, privacy, security, and licensing conditions permit, we publish code, documentation, models, datasets, evaluation methods, and research artifacts openly.
+
+## Research and Transformation Domains
+
+Our methodology can be applied across multiple domains:
 
 * Human-Centered Artificial Intelligence
 * Computing 5.0
@@ -72,13 +86,13 @@ Our work may cover multiple domains, including:
 
 These domains are connected through a shared model:
 
-**Domain Knowledge + Artificial Intelligence + Software Engineering + Human-Centered Design + Open Science + Real-World Impact**
+**Domain Knowledge + Artificial Intelligence + Software Engineering + Human-Centered Design + Open Science + Measurable Real-World Impact**
 
-## Flagship Projects
+## Flagship Work
 
 ### RetinexTapetum
 
-A bio-inspired and darkness-aware Retinex framework for low-light image enhancement.
+RetinexTapetum is a bio-inspired and darkness-aware Retinex framework for low-light image enhancement.
 
 The project focuses on:
 
@@ -86,11 +100,12 @@ The project focuses on:
 * interpretability,
 * color fidelity,
 * computational efficiency,
-* and practical deployment.
+* lightweight deployment,
+* and practical real-world use.
 
 ### Tapetum Sentinel
 
-A local-first artificial intelligence platform for understanding drone and field video.
+Tapetum Sentinel is a local-first artificial intelligence platform for understanding drone and field video.
 
 Its planned pipeline combines:
 
@@ -99,70 +114,81 @@ Its planned pipeline combines:
 * metadata extraction,
 * scene interpretation,
 * video summarization,
+* evidence frame generation,
 * and interactive video question answering.
 
 ### Politics5
 
-A human-centered transformation initiative exploring how politics, institutions, public participation, and technology can be redesigned for the Industry 5.0 era.
+Politics5 is a human-centered transformation initiative exploring how politics, public institutions, participation, governance, and technology can be redesigned for the Industry 5.0 era.
 
-Website: https://politics5.org
+**Website:** [politics5.org](https://politics5.org)
 
 ### NextLife
 
-A software and digital transformation initiative developed within Harran University.
+NextLife is a software and digital transformation initiative developed within Harran University.
 
-The project focuses on Computing 5.0, future-oriented software systems, institutional transformation, and practical digital applications.
+It focuses on Computing 5.0, future-oriented software systems, institutional transformation, and practical digital applications.
 
-Website: https://nextlife.harran.edu.tr
+**Website:** [nextlife.harran.edu.tr](https://nextlife.harran.edu.tr)
 
 ## Education Vision
 
 We aim to develop a future university education model based on:
 
 * two years of theoretical and interdisciplinary foundations,
-* two years of practical education, industry collaboration, open-source development, field research, and real-world projects.
+* two years of practical education, applied research, industry collaboration, field projects, and open-source development.
 
 The goal is to educate professionals who combine domain expertise with practical artificial intelligence and human–AI collaboration.
 
+These professionals should not only use artificial intelligence tools. They should also be able to redesign sector-specific processes around people, intelligent systems, sustainability, resilience, and real-world needs.
+
 Examples include:
 
-* computing professionals who can design responsible and deployable artificial intelligence systems,
-* agriculture professionals who can apply artificial intelligence, drones, sensors, computer vision, and decision-support systems in agricultural environments,
-* transformation specialists who can redesign sector-specific processes around people and artificial intelligence.
+* computing professionals who design responsible and deployable artificial intelligence systems,
+* agriculture professionals who use artificial intelligence, drones, sensors, computer vision, robotics, and decision-support systems,
+* education professionals who develop adaptive and human-centered learning systems,
+* transformation specialists who connect domain knowledge with artificial intelligence and software engineering.
 
-## Competency Levels
+## Competency Model
 
-The education and professional development model may include progressive roles such as:
+The education and professional development model may include progressive competency levels:
 
-* Human-Centered AI Practitioner
-* Human-Centered Transformation Specialist
-* Human-Centered Transformation Architect
+* **Human-Centered AI Practitioner**
+* **Human-Centered Transformation Specialist**
+* **Human-Centered Transformation Architect**
 
-The architect role represents advanced responsibility for designing and leading complex human-centered transformation systems.
+A practitioner applies artificial intelligence tools in real environments.
+
+A specialist combines domain expertise with human-centered artificial intelligence.
+
+An architect designs and leads complex transformation systems involving people, institutions, technology, artificial intelligence, and real-world processes.
 
 ## Project Outputs
 
 Depending on the project, outputs may include:
 
 * peer-reviewed academic articles,
+* conference papers,
 * open-source repositories,
-* artificial intelligence models,
+* trained artificial intelligence models,
+* model checkpoints,
 * datasets,
 * evaluation protocols,
-* Docker-based applications,
+* Docker-based local applications,
 * APIs,
 * user interfaces,
 * technical documentation,
 * reference architectures,
 * educational frameworks,
 * field prototypes,
-* and transformation models.
+* policy models,
+* and transformation frameworks.
 
 ## Language Policy
 
 English is the canonical language for all projects.
 
-Multilingual documentation may follow this structure:
+Multilingual documentation may follow a structure such as:
 
 ```text
 docs/
@@ -173,7 +199,9 @@ docs/
 └── other-languages/
 ```
 
-Software interfaces should use external translation files, with English as the fallback language.
+Software interfaces should use external translation resources rather than hard-coded text.
+
+English should be the fallback language when a translation is unavailable.
 
 ## Join the Community
 
@@ -198,9 +226,10 @@ You can contribute by:
 * reporting issues,
 * proposing research questions,
 * translating documentation,
-* testing applications,
+* testing applications in real environments,
 * contributing datasets under appropriate legal and ethical conditions,
-* and developing new domain-specific projects.
+* developing new domain-specific projects,
+* and helping transform academic knowledge into practical solutions.
 
 ## Founder
 
@@ -211,11 +240,11 @@ Computer Engineer
 Software Developer
 Researcher
 
-Website: https://muratdelen.com
-GitHub: https://github.com/muratdelen
-Politics 5.0: https://politics5.org
-NextLife: https://nextlife.harran.edu.tr
+* [Personal Website](https://muratdelen.com)
+* [GitHub Profile](https://github.com/muratdelen)
+* [Politics5](https://politics5.org)
+* [NextLife](https://nextlife.harran.edu.tr)
 
 ---
 
-**Develop locally. Design universally. Publish openly. Transform humanly.**
+**English by default. Multilingual by design. Universal by purpose. Open by principle.**
