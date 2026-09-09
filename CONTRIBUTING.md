@@ -158,6 +158,22 @@ Members who want their affiliation to appear publicly can change their membershi
 
 Public visibility is optional and remains each member's choice.
 
+## Contribution Licensing
+
+Unless a repository explicitly states otherwise, source code in Human-Centered Computing projects is licensed under the **GNU Affero General Public License v3.0 (AGPL-3.0)**.
+
+By submitting a pull request or other code contribution, you agree that your contribution may be distributed under the same AGPL-3.0 terms that govern the project. You retain copyright in your own contribution; this policy does not require copyright assignment to the organization.
+
+The practical principle is simple:
+
+- anyone may study, use, modify, and redistribute the open-source code under the AGPL-3.0 terms,
+- distributed modified versions must preserve the same open-source freedoms,
+- when a modified AGPL-covered program is offered to users over a network, the corresponding source must be made available as required by AGPL-3.0,
+- contributor attribution and Git history should be preserved,
+- third-party dependencies and assets remain subject to their own licenses.
+
+If you cannot license a contribution under these terms, raise the licensing issue before submitting the contribution.
+
 ## Attribution
 
 We value visible contribution.
