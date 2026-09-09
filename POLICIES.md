@@ -130,11 +130,20 @@ Harassment, discrimination, threats, personal attacks, and deliberate disruption
 
 ## 13. Licensing
 
-Every public software repository must include an approved open-source license.
+Human-Centered Computing uses the **GNU Affero General Public License v3.0 (AGPL-3.0)** as the default license for organization-developed software and source code.
 
-Datasets, documentation, academic content, model weights, and media should use licenses appropriate to each artifact type.
+The objective is not only to make source code visible, but to preserve the freedom to inspect, use, modify, and redistribute it while requiring covered modifications and network-deployed modified versions to remain available under the applicable AGPL-3.0 source-sharing obligations.
 
-Third-party components must be used in compliance with their original licenses and attribution requirements.
+Accordingly:
+
+* every public software repository should include an AGPL-3.0 `LICENSE` file unless a documented legal or compatibility exception is approved,
+* code contributions are expected to be contributed under the same AGPL-3.0 terms as the project,
+* contributors retain copyright in their own contributions unless a separate written agreement states otherwise,
+* contributor attribution and Git history should be preserved,
+* third-party dependencies remain under their original licenses and must be used in compliance with those licenses,
+* datasets, documentation, academic content, model weights, media, and third-party assets may require separate licenses appropriate to their artifact type.
+
+A repository must not describe itself as using a license that conflicts with its actual `LICENSE` file.
 
 ## 14. Project Admission
 
