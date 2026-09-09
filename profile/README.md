@@ -205,6 +205,8 @@ English should be the fallback language when a translation is unavailable.
 
 ## Join the Community
 
+Human-Centered Computing is open to people who want to turn research, technology, and domain knowledge into measurable human-centered impact.
+
 We welcome:
 
 * researchers,
@@ -218,18 +220,72 @@ We welcome:
 * civil society organizations,
 * and industry professionals.
 
+### Ways to Contribute
+
+You do not need to be an organization member to contribute. Our public repositories are open for participation through issues, discussions, forks, and pull requests.
+
 You can contribute by:
 
 * improving code,
 * reviewing documentation,
 * reproducing experiments,
-* reporting issues,
+* reporting and fixing issues,
 * proposing research questions,
 * translating documentation,
 * testing applications in real environments,
 * contributing datasets under appropriate legal and ethical conditions,
 * developing new domain-specific projects,
+* reviewing pull requests,
+* mentoring other contributors,
 * and helping transform academic knowledge into practical solutions.
+
+See our [Contribution Guide](../CONTRIBUTING.md) for the shared workflow used across the organization.
+
+### Community and Membership Model
+
+Organization membership is a recognition of sustained contribution and responsibility; it is not required to access our open-source work.
+
+Our community uses a progressive contribution model:
+
+| Level | Meaning |
+| --- | --- |
+| **Contributor** | Participates through issues, documentation, code, research, testing, design, translation, or other useful contributions. |
+| **Organization Member** | A contributor with meaningful or recurring participation who is invited into the GitHub organization. |
+| **Maintainer** | A trusted member responsible for the quality, review, and continuity of one or more projects. |
+| **Core Team** | Members with broader responsibility for the direction, governance, and long-term sustainability of the community. |
+
+Membership should reflect real contribution rather than passive affiliation.
+
+### Becoming an Organization Member
+
+A contributor may be invited to join the organization when they demonstrate one or more of the following:
+
+* a meaningful accepted contribution,
+* recurring technical, academic, documentation, design, or testing work,
+* responsibility for a project or research activity,
+* constructive participation in reviews and discussions,
+* reliable collaboration with other contributors,
+* or a clear continuing role in the Human-Centered Computing ecosystem.
+
+Membership does **not** automatically grant write or administrative access to every repository. Repository permissions are assigned according to project responsibility and need.
+
+### Make Your Membership Visible
+
+GitHub organization membership may be private by default.
+
+Members who want their participation to appear publicly on the Human-Centered Computing organization profile can change their organization membership visibility from **Private** to **Public** in GitHub.
+
+This helps make contributors and the growing community visible while leaving each member in control of their own profile visibility.
+
+### Start Contributing
+
+1. Choose a public repository that matches your interests.
+2. Read its README, issues, and contribution notes.
+3. Open or join an issue when discussion is useful.
+4. Submit a focused pull request or another concrete contribution.
+5. Continue collaborating through review and iteration.
+
+**Contribution creates membership; membership creates responsibility.**
 
 ## Founder
 
