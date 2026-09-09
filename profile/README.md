@@ -66,6 +66,12 @@ Projects may support Turkish and other languages through structured localization
 
 Whenever legal, ethical, privacy, security, and licensing conditions permit, we publish code, documentation, models, datasets, evaluation methods, and research artifacts openly.
 
+### Open Source That Stays Open
+
+Organization-developed software is licensed under the **GNU AGPL-3.0** by default.
+
+Our intent is that people can study, use, improve, and redistribute the code while preserving the same open-source freedoms in covered modified versions. Contributors keep copyright in their own work and contribute it under the project's AGPL-3.0 terms.
+
 ## Research and Transformation Domains
 
 Our methodology can be applied across multiple domains:
