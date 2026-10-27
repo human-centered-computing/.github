@@ -1,0 +1,53 @@
+name: "Organization Membership Application"
+description: "Apply to join Human-Centered Computing. Applications require review; membership is by invitation."
+title: "[Membership Application] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for your interest in Human-Centered Computing.
+
+        **Privacy:** This application will be a PUBLIC GitHub issue. Do not include your email address, phone number, private documents, credentials, or other sensitive personal information.
+
+        Applying does not grant organization membership or access to private repositories. An organization owner reviews applications and may send a separate GitHub invitation. Membership starts only after that invitation is accepted.
+
+  - type: input
+    id: github-username
+    attributes:
+      label: GitHub username
+      description: "Provide the GitHub account you would like us to invite."
+      placeholder: "@your-username"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: contribution-area
+    attributes:
+      label: Primary contribution area
+      options:
+        - Software development
+        - Artificial intelligence and data science
+        - Academic research
+        - Design and documentation
+        - Testing and quality assurance
+        - Education and community
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: How would you like to contribute?
+      description: "Briefly describe your interests or relevant experience. Avoid personal or confidential information."
+      placeholder: "I would like to contribute by..."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: Acknowledgement
+      options:
+        - label: "I understand this application is public, requires review, and does not automatically grant membership or access to private repositories."
+          required: true
