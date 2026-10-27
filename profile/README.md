@@ -211,6 +211,10 @@ English should be the fallback language when a translation is unavailable.
 
 ## Join the Community
 
+**[Apply for Organization Membership](https://github.com/human-centered-computing/.github/issues/new?template=membership-application.yml)**
+
+Interested in joining Human-Centered Computing? Submit the GitHub membership application above. Applications are **public issues** and should not contain personal or confidential information. An organization owner reviews applications; only approved applicants who accept a separate GitHub invitation become members. Membership does not automatically provide access to private repositories.
+
 Human-Centered Computing is open to people who want to turn research, technology, and domain knowledge into measurable human-centered impact.
 
 We welcome:
