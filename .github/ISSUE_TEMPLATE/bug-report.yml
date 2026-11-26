@@ -1,0 +1,19 @@
+name: Bug report
+description: Report a non-security defect
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not report vulnerabilities or secrets here. Follow the repository security policy."
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction steps and affected revision
+    validations:
+      required: true
+  - type: textarea
+    id: observed
+    attributes:
+      label: Expected and observed behavior
+    validations:
+      required: true

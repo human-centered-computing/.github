@@ -1,0 +1,17 @@
+name: Feature request
+description: Propose an improvement with measurable user benefit
+title: "[Feature] "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: User need and expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Acceptance criteria and potential risks
+      description: Do not include confidential or personal information.
+    validations:
+      required: true

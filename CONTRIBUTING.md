@@ -73,6 +73,12 @@ A useful pull request should state:
 - known limitations,
 - and any follow-up work.
 
+## Human and AI-Assisted Contributions
+
+Human authors and AI-assisted contributors follow the same evidence and review requirements. Disclose material AI assistance, record the human contribution (including ideas, design, validation and review), and ensure the accountable human understands limitations. Authors must not approve their own changes; independent review and required human authorization precede release.
+
+See [AI Governance](AI-GOVERNANCE.md), [Engineering Standards](ENGINEERING-STANDARDS.md), [Contribution Standards](CONTRIBUTION-STANDARDS.md) and [Security Policy](SECURITY.md). Never submit sensitive vulnerability details or secrets in public issues.
+
 ## Research Contributions
 
 Research-oriented contributions should aim to be reproducible.

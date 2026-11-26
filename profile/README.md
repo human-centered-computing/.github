@@ -137,6 +137,12 @@ It focuses on Computing 5.0, future-oriented software systems, institutional tra
 
 **Website:** [nextlife.harran.edu.tr](https://nextlife.harran.edu.tr)
 
+### NextDeveloper — Human-Centered Software Factory
+
+NextDeveloper is a planned independent, open-source human–AI collaborative software factory. It coordinates requirements, original design, Java-oriented native development, upstream-preserving open-source adaptation, testing, independent review and human-approved releases. AI providers and code-hosting backends are replaceable. GitHub is the initial collaboration platform; local continuity and future NextLife integrations are design goals, not deployed capabilities. Each product retains its own repository and independent lifecycle. Human contributions are recognized using evidence and the planned NextContribution integration.
+
+Read our [AI governance](../AI-GOVERNANCE.md), [engineering standards](../ENGINEERING-STANDARDS.md), [security policy](../SECURITY.md) and [contribution standards](../CONTRIBUTION-STANDARDS.md).
+
 ## Education Vision
 
 We aim to develop a future university education model based on:

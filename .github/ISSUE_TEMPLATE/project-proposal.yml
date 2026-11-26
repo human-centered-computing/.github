@@ -1,0 +1,25 @@
+name: Project proposal
+description: Propose a human-centered software or research project
+title: "[Project] "
+body:
+  - type: markdown
+    attributes:
+      value: "This issue may be public. Do not include personal data, secrets or confidential information."
+  - type: textarea
+    id: need
+    attributes:
+      label: Human need and affected users
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Scope, alternatives and acceptance criteria
+    validations:
+      required: true
+  - type: textarea
+    id: risks
+    attributes:
+      label: Risks, license, dependencies and expected human impact
+    validations:
+      required: true
