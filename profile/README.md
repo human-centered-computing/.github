@@ -60,7 +60,7 @@ English is the canonical language for repositories, academic work, technical doc
 
 ### Multilingual by Design
 
-Projects may support Turkish and other languages through structured localization, translation files, and community contributions.
+Our standard languages are English, German, Turkish, and Arabic. Users should be able to select their preferred language through structured localization, translation files, and community contributions. Additional project-specific languages may be preserved.
 
 ### Open by Principle
 
@@ -198,22 +198,20 @@ Depending on the project, outputs may include:
 
 ## Language Policy
 
-English is the canonical language for all projects.
+English is the default, canonical and fallback language for all projects. German, Turkish and Arabic are the other standard supported languages. Each localized README should offer a visible language selector (English · Deutsch · Türkçe · العربية), linking only to available translations. The four-language standard applies across the organization; additional project-specific languages may be preserved.
 
 Multilingual documentation may follow a structure such as:
 
 ```text
 docs/
 ├── en/
-├── tr/
 ├── de/
+├── tr/
 ├── ar/
 └── other-languages/
 ```
 
-Software interfaces should use external translation resources rather than hard-coded text.
-
-English should be the fallback language when a translation is unavailable.
+Software interfaces should use external translation resources rather than hard-coded text, offer language selection and support right-to-left (RTL) layout for Arabic. English is the fallback language when a translation is unavailable. See [organization policies](../POLICIES.md#10-multilingual-and-universal-design).
 
 ## Join the Community
 
