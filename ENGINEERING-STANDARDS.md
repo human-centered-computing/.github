@@ -21,10 +21,11 @@ Maintain versioned requirements and acceptance criteria; run independent functio
 
 Use provider-neutral repository, project, task and AI interfaces. GitHub Projects, Issues, repositories, pull requests and Actions are the initial online adapters. A local Git forge (Forgejo or GitLab assessed by pilot), metadata exports, independent CI and cached dependencies support outage recovery. Verify backups, restoration and synchronization before claiming offline operation. Store sensitive information separately and keep deployed infrastructure configuration out of public repositories.
 
-## Bilingual repository documentation
+## Four-language repository documentation
 
-- Every HCC project repository must provide a root `README.md` in English (the default and canonical version) and `README.tr.md` in Turkish.
-- Both files must link to each other near the top: `[English](README.md) · [Türkçe](README.tr.md)`.
-- Keep the purpose, scope, status, standards, navigation, permissions, and limitations equivalent in both languages. When a README changes materially, update both in the same reviewed change. Review translation accuracy and links; never imply a different approval, license, security, or implementation status in a translation.
-- Apply this standard to new repositories at initialization and to existing repositories during their next documentation review. Do not change repository visibility, licensing, or software behavior merely to adopt this standard.
-- English remains authoritative if translations diverge; correct discrepancies through the normal human-reviewed process. This requirement covers root project READMEs; translate other documentation as appropriate to its audience and risk.
+- Every HCC-owned repository and project/module README must support four languages: English (`README.md`, default and canonical), Turkish (`README.tr.md`), German (`README.de.md`), and Arabic (`README.ar.md`).
+- Link all four language versions near the top: [English](README.md) · [Türkçe](README.tr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md). Use equivalent relative paths within each README directory. Existing additional languages remain supported and must not be removed.
+- Keep purpose, scope, status, standards, navigation, permissions, limitations and factual content equivalent. Material changes update all four versions in the same reviewed change. Preserve exact code, commands, identifiers, links and license notices; check Arabic right-to-left readability and terminology.
+- For legacy long-form documents, a clearly labeled localized overview may be an interim navigation aid, not a completed translation. Record missing or incomplete translations and review them before declaring four-language parity.
+- Apply to new projects at initialization, including first-party module and project READMEs. Preserve unmodified third-party upstream README files, original research/source archives and attribution; add separate HCC-owned documentation where necessary.
+- English remains authoritative if translations diverge; correct discrepancies through the normal human-reviewed process. Adoption changes documentation only, never repository visibility, licensing, software behavior, permissions or deployment.
