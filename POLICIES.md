@@ -108,9 +108,14 @@ Authorship, attribution, and contribution credit must reflect actual intellectua
 
 ## 10. Multilingual and Universal Design
 
-English is the canonical language for source code, technical documentation, and international collaboration.
+English (en) is the default, canonical and fallback language for source code, technical documentation, and international collaboration.
 
-Projects should be multilingual by design where practical and should support structured localization rather than hard-coded language dependencies.
+The four standard supported documentation and interface languages are English (en), German (de), Turkish (tr), and Arabic (ar). Users must be able to select any of these languages wherever localized content or interfaces are provided. Additional project-specific languages may be preserved and supported.
+
+- Use `README.md` for canonical English documentation and provide German, Turkish and Arabic equivalents (`README.de.md`, `README.tr.md`, `README.ar.md`, or the project's existing consistent localization paths).
+- Include a clearly visible language selector at the top of each README with links to available language versions. Do not link to missing translations; track incomplete translations and use English as the fallback. Keep translations aligned with the canonical English content, including project status, limitations, licenses, and links.
+- Use external translation resources rather than hard-coded interface strings, and support right-to-left (RTL) layout for Arabic.
+- Treat language selection and translation quality as acceptance criteria for new or updated localized documentation and interfaces. Record missing translations rather than claiming unsupported languages are available.
 
 Projects may begin with local needs but should be designed for adaptation across different countries, cultures, institutions, and sectors.
 
