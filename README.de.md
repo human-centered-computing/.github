@@ -1,5 +1,7 @@
 # .github
 
+> Übersetzungsstatus: KI-unterstützter Entwurf, menschliche Sprachprüfung ausstehend.
+
 [English](README.md) · [Türkçe](README.tr.md) · [Deutsch](README.de.md) · [العربية](README.ar.md)
 
 Gemeinschaftsprofil und Governance für Human-Centered Computing.

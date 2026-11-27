@@ -21,6 +21,8 @@ Maintain versioned requirements and acceptance criteria; run independent functio
 
 Use provider-neutral repository, project, task and AI interfaces. GitHub Projects, Issues, repositories, pull requests and Actions are the initial online adapters. A local Git forge (Forgejo or GitLab assessed by pilot), metadata exports, independent CI and cached dependencies support outage recovery. Verify backups, restoration and synchronization before claiming offline operation. Store sensitive information separately and keep deployed infrastructure configuration out of public repositories.
 
+<a id="bilingual-repository-documentation"></a>
+
 ## Four-language repository documentation
 
 - Every HCC-owned repository and project/module README must support four languages: English (`README.md`, default and canonical), Turkish (`README.tr.md`), German (`README.de.md`), and Arabic (`README.ar.md`).
